@@ -11,4 +11,4 @@ Test task application based on Swift using CoreData, <a href="https://github.com
 - ℹ️ Get detailed information about the album
 - 🖼 All images are cached
 - 🔄 All requests persist between application launches in History tab
-- ❌ Delete reques from History list
+- ❌ Delete requests from History list

@@ -4,19 +4,11 @@
   <img width="150" height="150" src="https://github.com/kek021/iTunes-Search/blob/main/iTunesSearch/Misc/Assets.xcassets/AppIcon.appiconset/icon-1024.png" />
 </p>
 
-A simple project based on Swift using CoreData, Alamofire, AlamofireImage and CocoaPods
+A simple project based on Swift using CoreData, <a href="https://github.com/Alamofire/Alamofire" title="Alamofire">Alamofire</a>, <a href="https://github.com/Alamofire/AlamofireImage" title="AlamofireImage">AlamofireImage</a> and <a href="https://github.com/CocoaPods/CocoaPods" title="CocoaPods">CocoaPods</a>
 
 ## Features
-- ➕ Searching music albums by name
-- ✅ Get detailed information about the album
-- ↕️ Change position of the task in list
-- ❌ Delete task from list
-- 🔄 All changes are saved automatically using Realm or CoreData
-
-## How to run
-
-Project works with CocoaPods, so you need from the command line, run ```pod install``` to fetch the dependencies.
-
-## License
-
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+- 🔍 Searching music albums by name
+- ℹ️ Get detailed information about the album
+- 🖼 All images are cached
+- 🔄 All requests persist between application launches in History tab
+- ❌ Delete reques from History list
